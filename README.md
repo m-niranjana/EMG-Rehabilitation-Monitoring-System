@@ -1,5 +1,3 @@
-# EMG-Muscle-Activity-Monitoring-System
-A low-cost, portable EMG rehabilitation monitoring system built with ESP32. It tracks muscle activity, fatigue, repetitions, hold time, and recovery in real time, displays data on an OLED, logs sessions to an SD card, and integrates with Blynk and Streamlit for remote monitoring and visualization.
 # 🫀 EMG Rehabilitation Monitoring System
 
 A complete embedded + dashboard system for tracking muscle rehabilitation progress using an ESP32-based EMG sensor device and a Python Streamlit web dashboard.
